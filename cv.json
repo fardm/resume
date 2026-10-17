@@ -3,13 +3,13 @@
     "name": "حسین فردمحمدی",
     "label": "طراح گرافیک",
     "image": "/avatar.jpg",
-    "summary": "من از سال 1400 به عنوان طراح‌گرافیک مشغول به کار شدم. در کنار کار گرافیکی علاقه‌ی خاصی به طراحی سایت داشتم به همین دلیل ساخت سایت با WordPress و Static Site Generatorها را یاد گرفتم. به خاطر سابقه گرافیکی که داشتم رابط کاربری سایت‌ها را بازطراحی می‌کردم تا ظاهر جذاب‌تری داشته باشند. به مرور با UI/UX Design آشنا شدم و HTML و CSS را گرفتم. با این حال کار روی ظاهر سایت برایم کافی نبود، می‌خواستم با منطق و ساختار فنی سایت هم درگیر شوم. اکنون در مسیر یادگیری برنامه‌نویسی فرانت‌اند هستم تا بتوانم ترکیب طراحی و توسعه را به شکل کامل‌تری در پروژه‌ها به‌کار ببرم.",
+    "summary": "از سال 1400 فعالیت حرفه‌ای خود را به‌عنوان طراح گرافیک آغاز کردم. علاقه به طراحی سایت مسیر من را به سمت UI/UX Design و طراحی رابط کاربری کشاند. با یادگیری HTML و CSS به‌تدریج وارد حوزه‌ی توسعه وب شدم و ساخت سایت با ابزارهای مختلف را تجربه کردم. در حال حاضر در مسیر یادگیری و ارتقای مهارت‌هایم در فرانت‌اند و ساخت پروژه‌های کاربردی هستم.",
     "theme": "custom",
     "url": "/"
     
   },
   "info": {
-    "email": "info@ifard.ir",
+    "email": "hossein.fard.mo@gmail.com",
     "phone": null,
     "site": "ifard.ir",
     "birthday": "1379",
@@ -42,7 +42,7 @@
     {
       "language": "English",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_the_United_Kingdom_%281-1%29.svg",
-      "level": "A1"
+      "level": "B1"
     }
   ],
   "work": [
@@ -190,6 +190,20 @@
   ],
   "projects": [
     {
+      "name": "سایت کاربوک",
+      "isActive": true,
+      "description": "دفترچه دیجیتال نگهداری خودرو",
+      "highlights": [
+        "ثبت دقیق سوابق سرویس",
+        "پایش استهلاک و سلامت قطعات",
+        "تخمین هوشمند سلامت قطعات",
+        "یادآوری سرویس بر اساس تاریخ یا کارکرد"
+      ],
+      "url": "https://carbook.fardm.ir/",
+      "github": "https://github.com/fardm/carbook"
+
+    },
+    {
       "name": "سایت پرامپت‌ساز",
       "isActive": true,
       "description": "ابزاری برای ساخت دقیق‌تر پرامپت‌ها در تولید تصویر با هوش مصنوعی",
@@ -198,7 +212,7 @@
         "تفکیک و دسته بندی زمینه‌ها",
         "پیش نمایش تصویری"
       ],
-      "url": "https://promptsaz.ifard.ir/",
+      "url": "https://fardm.github.io/PromptSaz/",
       "github": "https://github.com/fardm/PromptSaz"
     },
     {
@@ -221,8 +235,36 @@
         "پشتبانی از گودریدز، آمازون، طاقچه و فیدیبو",
         "ایجاد تمپلیت سفارشی"
       ],
-      "url": "https://www.obsidianstats.com/plugins/book-clipper",
+      "url": "https://community.obsidian.md/plugins/book-clipper",
       "github": "https://github.com/fardm/obsidian-book-clipper"
+
+    },
+    {
+      "name": "پلاگین هبیت ترکر",
+      "isActive": true,
+      "description": "ردیابی عادت‌ها در نرم‌افزار ابسیدین",
+      "highlights": [
+        "داشبورد روزانه و وضعیت تکمیل عادت‌ها",
+        "تقویم حرارتی عادت‌ها",
+        "نمودارهای خطی و میله‌ای",
+        "ردیابی زنجیره عادت‌ها و رکوردهای تداوم"
+      ],
+      "url": "https://community.obsidian.md/plugins/habit-tracker-dashboard",
+      "github": "https://github.com/fardm/Habit-Tracker-Dashboard"
+
+    },
+    {
+      "name": "کامنت گاردن",
+      "isActive": true,
+      "description": "پلتفرم مدیریت و انتشار دیدگاه‌ها",
+      "highlights": [
+          "واکنش با ۱۰ ایموجی برای دیدگاه‌ها و نوشته‌ها",
+          "ابزارک نمایش آخرین دیدگاه‌ها",
+          "پنل مدیریت و بررسی دیدگاه‌ها",
+          "ورود و خروجی‌گیری از داده‌ها با JSON"
+      ],
+      "url": "https://community.obsidian.md/plugins/habit-tracker-dashboard",
+      "github": "https://github.com/fardm/Habit-Tracker-Dashboard"
 
     }
   ]
