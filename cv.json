@@ -190,7 +190,7 @@
   ],
   "projects": [
     {
-      "name": "سایت کاربوک",
+      "name": "سایت CarBook",
       "isActive": true,
       "description": "دفترچه دیجیتال نگهداری خودرو",
       "highlights": [
@@ -239,7 +239,7 @@
 
     },
     {
-      "name": "پلاگین هبیت ترکر",
+      "name": "پلاگین Habit Trackker",
       "isActive": true,
       "description": "ردیابی عادت‌ها در نرم‌افزار ابسیدین",
       "highlights": [
@@ -252,16 +252,16 @@
 
     },
     {
-      "name": "کامنت گاردن",
+      "name": "سرویس Comments Garden",
       "isActive": true,
-      "description": "پلتفرم مدیریت و انتشار دیدگاه‌ها",
+      "description": "سرویس کامنت برای سایت استاتیک",
       "highlights": [
           "واکنش با ایموجی برای دیدگاه‌ها و نوشته‌ها",
           "ابزارک نمایش آخرین دیدگاه‌ها",
           "ورود و خروجی‌گیری از داده‌ها با JSON"
       ],
-      "url": "https://community.obsidian.md/plugins/habit-tracker-dashboard",
-      "github": "https://github.com/fardm/Habit-Tracker-Dashboard"
+      "url": "https://ifard.ir/habit-tracker-in-obsidian#comments-container",
+      "github": "https://github.com/fardm/comments-garden"
 
     }
   ]
